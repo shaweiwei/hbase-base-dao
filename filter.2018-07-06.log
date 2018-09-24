@@ -1,0 +1,9 @@
+2018-07-06 08:52:53.345 [main] INFO  com.bigdata.BootApplication - Starting BootApplication on Lenovo-PC with PID 1996 (started by ko in C:\Users\ko\Workspaces\spring tool suite\hbase-base-dao)
+2018-07-06 08:52:53.489 [main] INFO  com.bigdata.BootApplication - No active profile set, falling back to default profiles: default
+2018-07-06 08:54:03.781 [main] INFO  com.bigdata.BootApplication - Starting BootApplication on Lenovo-PC with PID 38028 (started by ko in C:\Users\ko\Workspaces\spring tool suite\hbase-base-dao)
+2018-07-06 08:54:03.790 [main] INFO  com.bigdata.BootApplication - No active profile set, falling back to default profiles: default
+2018-07-06 08:56:48.264 [main] INFO  com.bigdata.BootApplication - Starting BootApplication on Lenovo-PC with PID 22592 (started by ko in C:\Users\ko\Workspaces\spring tool suite\hbase-base-dao)
+2018-07-06 08:56:48.271 [main] INFO  com.bigdata.BootApplication - No active profile set, falling back to default profiles: default
+2018-07-06 08:56:54.515 [main] INFO  com.bigdata.BootApplication - Started BootApplication in 6.777 seconds (JVM running for 8.342)
+2018-07-06 08:58:50.952 [http-nio-8175-exec-1] ERROR com.bigdata.controller.OperationController - 创建表tt1出错
+2018-07-06 08:58:50.952 [http-nio-8175-exec-1] ERROR com.bigdata.controller.OperationController - The value of property hbase.zookeeper.quorum must not be null
